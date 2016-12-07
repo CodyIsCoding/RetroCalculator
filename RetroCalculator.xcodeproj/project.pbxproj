@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					282F69491DF8B39000EE0CB4 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = JG2A9XDFD5;
 						ProvisioningStyle = Automatic;
 					};
 					282F695D1DF8B39000EE0CB4 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JG2A9XDFD5;
 				INFOPLIST_FILE = RetroCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.codylaront.RetroCalculator;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JG2A9XDFD5;
 				INFOPLIST_FILE = RetroCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.codylaront.RetroCalculator;
